@@ -1,2 +1,2 @@
 DEBUG = False
-ALLOWED_HOSTS = ['localhost']
+ALLOWED_HOSTS = ['app.readyassist.in']
